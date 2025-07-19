@@ -75,7 +75,7 @@ const DISCORD_USER_ID = "1015356240492245054"; // Discord ID'niz
 
 ## 🌍 Canlı Önizleme
 
-Projeyi canlı olarak [buradan]() görüntüleyebilirsiniz.
+Projeyi canlı olarak [buradan](https://lweaxo.vercel.app/) görüntüleyebilirsiniz.
 
 ## Dikkat
 
