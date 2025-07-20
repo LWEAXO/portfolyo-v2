@@ -292,7 +292,7 @@ function getGameImage(imageKey) {
     
     function refresh() {
         const now = Date.now();
-        if (now - lastUpdate >= 50) {
+        if (now - lastUpdate >= 2000) {
             new Image().src = `${camoUrl}?t=${now}`;
             lastUpdate = now;
         }
